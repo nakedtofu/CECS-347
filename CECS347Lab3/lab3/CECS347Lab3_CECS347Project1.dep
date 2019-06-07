@@ -1,0 +1,8 @@
+Dependencies for Project 'CECS347Lab3', Target 'CECS347Project1': (DO NOT MODIFY !)
+F (.\startup.s)(0x5198397A)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\CECS347Lab3.c)(0x5AB178B0)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\cecs347lab3.o --omf_browse .\cecs347lab3.crf --depend .\cecs347lab3.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C8A654)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C8A654)
+I (tm4c123gh6pm.h)(0x56CE05A6)
+I (Nokia5110.c)(0x52653E1C)
+I (Nokia5110.h)(0x5237A838)

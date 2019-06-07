@@ -1,0 +1,9 @@
+.\cecs347lab4.o: CECS347Lab4.c
+.\cecs347lab4.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\cecs347lab4.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\cecs347lab4.o: tm4c123gh6pm.h
+.\cecs347lab4.o: Nokia5110.c
+.\cecs347lab4.o: Nokia5110.h
+.\cecs347lab4.o: ADCSWTrigger.c
+.\cecs347lab4.o: SysTick.h
+.\cecs347lab4.o: SysTick.h
