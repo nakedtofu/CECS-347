@@ -1,0 +1,6 @@
+Dependencies for Project 'CECS347Lab2', Target 'PWM': (DO NOT MODIFY !)
+F (.\startup.s)(0x5198478A)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\CECS347Lab2.c)(0x5A8B888E)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\cecs347lab2.o --omf_browse .\cecs347lab2.crf --depend .\cecs347lab2.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C89844)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C89844)
+I (tm4c123gh6pm.h)(0x56CDF796)
